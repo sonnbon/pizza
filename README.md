@@ -1,6 +1,6 @@
-Pizza Calculator
+# Pizza Calculator
 
-Connor Williams
+Connor Williams 2021
 
 This program is a pizza calculator, which takes two inputs
 and outputs an answer in dollars per square inch.

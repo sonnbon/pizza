@@ -1,4 +1,4 @@
-# HW2 - The Pizza Calculator
+# The Pizza Calculator
 # Connor Williams 2021
 
 # imported all functions from math module so I can use a more accurate pi

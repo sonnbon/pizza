@@ -2,5 +2,9 @@ Pizza Calculator
 
 Connor Williams
 
-The program in this directory is a pizza calculator, which takes two inputs
+This program is a pizza calculator, which takes two inputs
 and outputs an answer in dollars per square inch.
+
+This was created for a homework assignment for my CS 161 -
+Introduction to Programs and Problem Solving class at
+Portland State Univsersity.
